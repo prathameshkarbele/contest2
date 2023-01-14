@@ -12,9 +12,11 @@ h2{
     margin-top: 50px;
     margin-left: 30px;
     margin-bottom: 15px;
+  
 }
 
 input {
+
     margin: 5px;
 }
 
@@ -22,6 +24,7 @@ input {
     display: flex;
     margin-left: 30px;
     margin-bottom: 15px;
+    
 }
 button{
     margin-left: 30px;
@@ -37,6 +40,7 @@ button{
 .info {
     display: flex;
     flex-direction: column;
+    
 }
 
 table {
